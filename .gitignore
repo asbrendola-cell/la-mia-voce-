@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Cartelle di lavoro e file pesanti: video e audio non vanno su GitHub
+lavoro_*/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3

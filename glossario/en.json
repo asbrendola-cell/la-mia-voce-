@@ -1,0 +1,14 @@
+{
+ "lingua": "en",
+ "bibbia_di_riferimento": "DA SCEGLIERE (KJV o NIV)",
+ "sostituzioni": [],
+ "segnala": [
+  {"parola": "Romans", "motivo": "citazione biblica: controllare capitolo, versetto e testo della Bibbia inglese scelta"},
+  {"parola": "Genesis", "motivo": "citazione biblica: controllare il testo della Bibbia inglese scelta"},
+  {"parola": "returned", "motivo": "se Walter dice \"Gesù è tornato per pagare il debito\" forse intende \"è venuto\" (\"Jesus came\"): da chiedere a Walter"}
+ ],
+ "note": [
+  "La Bibbia inglese di riferimento non è ancora scelta: finché non si decide, ogni citazione va controllata a mano.",
+  "Ogni errore trovato in revisione va aggiunto qui, con la fonte."
+ ]
+}
