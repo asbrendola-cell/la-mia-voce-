@@ -1,0 +1,10 @@
+# La mia Voce - pacchetti Python (Python 3.11 o superiore)
+# Torch arriva da PyPI insieme a chatterbox-tts. Su una scheda video NVIDIA (RunPod)
+# conviene partire da un'immagine con PyTorch + CUDA già installati.
+chatterbox-tts==0.1.7
+faster-whisper>=1.1
+deepl>=2.0
+numpy
+# Il watermark "perth" di Chatterbox usa pkg_resources, che non c'è più da setuptools 81.
+setuptools<81
+pytest

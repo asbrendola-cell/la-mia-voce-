@@ -1,0 +1,28 @@
+{
+ "lingua": "es",
+ "bibbia_di_riferimento": "Reina-Valera 1960",
+ "sostituzioni": [
+  {"da": "carecen de la gloria de Dios", "a": "están destituidos de la gloria de Dios", "fonte": "Romanos 3:23 (RVR1960)"},
+  {"da": "están privados de la gloria de Dios", "a": "están destituidos de la gloria de Dios", "fonte": "Romanos 3:23 (RVR1960)"},
+  {"da": "gloria y honor", "a": "gloria y honra", "fonte": "Salmos 8:5 / Hebreos 2:7 (RVR1960)"},
+  {"da": "se dieron cuenta de que estaban desnudos", "a": "conocieron que estaban desnudos", "fonte": "Génesis 3:7 (RVR1960)"}
+ ],
+ "segnala": [
+  {"parola": "vosotros", "motivo": "spagnolo di Spagna: usare \"ustedes\" (latinoamericano)"},
+  {"parola": "vosotras", "motivo": "spagnolo di Spagna: usare \"ustedes\""},
+  {"parola": "os", "motivo": "pronome di \"vosotros\": usare \"les/los\" con \"ustedes\""},
+  {"parola": "vuestro", "motivo": "usare \"su/de ustedes\""},
+  {"parola": "vuestra", "motivo": "usare \"su/de ustedes\""},
+  {"parola": "sois", "motivo": "forma di \"vosotros\": usare \"son\""},
+  {"parola": "habéis", "motivo": "forma di \"vosotros\": usare \"han\""},
+  {"parola": "que te vaya bien en todo", "motivo": "se è 3 Giovanni 1:2 usare RVR1960: \"yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma\""},
+  {"parola": "Romanos", "motivo": "citazione biblica: controllare capitolo, versetto e testo Reina-Valera 1960"},
+  {"parola": "Génesis", "motivo": "citazione biblica: controllare il testo Reina-Valera 1960"},
+  {"parola": "volvió", "motivo": "se Walter dice \"Gesù è tornato per pagare il debito\" forse intende \"è venuto\" (\"Jesús vino\"): da chiedere a Walter"}
+ ],
+ "note": [
+  "Usare \"tú\" quando Walter dà del tu all'ascoltatore, \"ustedes\" quando parla a tutti.",
+  "Senso fedele prima di tutto: non aggiungere versetti o frasi che Walter non dice.",
+  "Ogni errore trovato in revisione va aggiunto qui, con la fonte."
+ ]
+}
